@@ -9,6 +9,6 @@
 
 .container {
   width: 60vw !important;
-  margin: 30px auto;
-  background-color: #6610f2;
+  margin: 30px auto !important;
+  background-color: #6610f2 !important;
 }
