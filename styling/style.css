@@ -24,20 +24,29 @@
 #page-one {
   padding-top: 100px;
 }
+#page-one .first-page img,
+.swiper-slide img,  #purple-section img {
+  width: 30vw;
+}
 .ceo-icon .profile-icon h3, .ceo-icon .profile-icon h6 {
   font-family: "Raleway", sans-serif;
 }
 .ceo-icon img {
   width: 40vw;
 }
-#page-one .first-page img,
-.swiper-slide img,  #purple-section img {
-  width: 30vw;
-}
 .swiper {
   width: 30vw;
   height: 35vw;
   padding: 50px;
+}
+#brands-section img {
+  width: 150px;
+  filter:grayscale(100%);
+}
+#brands-section img:hover {
+  width: 200px;
+  filter:grayscale(0);
+  scale: (1.15);
 }
 
 
