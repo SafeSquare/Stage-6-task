@@ -6,7 +6,10 @@
   font-family: sans-serif;
 }
 .text-primary {
-  color: #124265 !important;
+  color: #ffffff !important;
+}
+.text-danger {
+  color: #6610f2 !important;
 }
 #purple-section {
   background-color: #6610f2;
@@ -42,6 +45,10 @@
 #brands-section img {
   animation-duration: 5s;
   animation-iteration-count: infinite;
+}
+
+#contact-section {
+  background-color: #6610f2 !important;
 }
 
 
