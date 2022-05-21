@@ -40,13 +40,8 @@
   padding: 50px;
 }
 #brands-section img {
-  width: 150px;
-  filter:grayscale(100%);
-}
-#brands-section img:hover {
-  width: 200px;
-  filter:grayscale(0);
-  scale: (1.15);
+  animation-duration: 10s;
+  animation-iteration-count: 30;
 }
 
 
