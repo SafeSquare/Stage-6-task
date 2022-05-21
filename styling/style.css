@@ -40,8 +40,8 @@
   padding: 50px;
 }
 #brands-section img {
-  animation-duration: 10s;
-  animation-iteration-count: 30;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
 }
 
 
