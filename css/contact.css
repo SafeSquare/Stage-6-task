@@ -7,9 +7,7 @@
   font-family: "Raleway", sans-serif;
 }
 
-.container {
-  width: 90vw !important;
-  margin: 80px auto !important;
+.box-color {
   background-color: #6610f2 !important;
 }
 
